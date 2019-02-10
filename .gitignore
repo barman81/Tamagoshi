@@ -79,7 +79,4 @@ modules.xml
 *.ipr
 
 # End of https://www.gitignore.io/api/intellij+iml
-.idea/encodings.xml
-.idea/description.html
-.idea/project-template.xml
-.idea/vcs.xml
+./idea/*
